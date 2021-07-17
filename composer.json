@@ -1,0 +1,10 @@
+{
+    "name": "marketplace/lib",
+    "description": "Creating php side hustle market place",
+    "autoload": {
+        "psr-4": {
+            "Marketplace\\Lib\\": "src/"
+        }
+    },
+    "require": {}
+}
