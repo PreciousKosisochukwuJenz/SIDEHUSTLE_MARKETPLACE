@@ -79,7 +79,7 @@
                         if($run_query){
                               // Notification
                               echo '<div class="alert alert-success">';
-                              echo '<strong>Success!</strong> Password resetted successfully, <a href="login.php">Log in now</a>';
+                              echo '<strong>Success!</strong> Password resetted successfully, <a href="Login.php">Log in now</a>';
                               echo '</div>';   
                         }else{
                           echo '<div class="alert alert-danger">';
