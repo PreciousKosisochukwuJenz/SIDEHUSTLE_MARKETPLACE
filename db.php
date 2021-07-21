@@ -1,8 +1,8 @@
 <?php
     // database variables
-    $datasource = "mysql:host=localhost;dbname=marketplacedb";
-    $username = "root";
-    $password = "";
+    $datasource = "mysql:host=us-cdbr-east-04.cleardb.com;dbname=marketplacedb";
+    $username = "b0be18499afc7b";
+    $password = "36837e31";
 
     // Connecting to database
     try{
