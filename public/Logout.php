@@ -4,6 +4,6 @@
     $_SESSION["IsLoggedIn"] = false;
     
     // Redirect to login
-    header("Location: login.php");
+    header("Location: Login.php");
     exit();
 ?>
