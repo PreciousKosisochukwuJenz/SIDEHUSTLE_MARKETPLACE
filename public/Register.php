@@ -93,7 +93,7 @@
 
                         // Notification
                         echo '<div class="alert alert-success">';
-                        echo '<strong>Success!</strong> Registration successfull, <a href="login.php">Log in now</a>';
+                        echo '<strong>Success!</strong> Registration successfull, <a href="Login.php">Log in now</a>';
                         echo '</div>';   
                       }
                    }
